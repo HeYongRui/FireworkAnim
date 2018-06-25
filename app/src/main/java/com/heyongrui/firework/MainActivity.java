@@ -17,7 +17,7 @@ import com.heyongrui.fireworkanim.BezierFireworkAnim;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private BezierFireworkAnim fireworkAnim;
+    private BezierFireworkAnim fireworkAnim;//贝塞尔抛物线动画
     private Drawable redHeartBg;
     private Drawable grayBg;
 
