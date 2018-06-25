@@ -4,6 +4,7 @@
     本人无审美，所以不知道效果怎样，只是觉得跟一般的效果还是有区别的。如果有小伙伴觉得有用的话，欢迎使用！主要原理是利用
     贝塞尔曲线生成随机路径，然后加上一些辅助动画，看起来有一种抛洒的效果。
 
+![image](https://raw.githubusercontent.com/HeYongRui/FireworkAnim/master/app/src/GIF.gif) 
 ## 如何使用它
 
 > Step 1.先在 build.gradle(Project:XXXX) 的 repositories 添加::
