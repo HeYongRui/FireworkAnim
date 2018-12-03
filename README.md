@@ -1,4 +1,4 @@
-# FireworkAnim [![](https://img.shields.io/badge/platform-android-brightgreen.svg)](https://developer.android.com/index.html)  [![API](https://img.shields.io/badge/API-14%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=14)  [![RxTool](https://jitpack.io/v/vondear/RxTool.svg)](https://jitpack.io/#vondear/RxTool)  [![Twitter](https://img.shields.io/badge/Gradle-3.0.1-brightgreen.svg)](https://github.com/jiangzehui/polygonsview)
+# FireworkAnim [![](https://img.shields.io/badge/platform-android-brightgreen.svg)](https://developer.android.com/index.html)  [![API](https://img.shields.io/badge/API-14%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=14)  [![RxTool](https://jitpack.io/v/HeYongRui/FireworkAnim.svg)](https://jitpack.io/#HeYongRui/FireworkAnim)  [![Twitter](https://img.shields.io/badge/Gradle-3.0.1-brightgreen.svg)](https://github.com/jiangzehui/polygonsview)
 
     由于公司项目开发需要一个点赞收藏的动效，想给用户一种新鲜感，不那么大众化的效果，于是就自己写了一个类似礼物抛洒的动效，
     本人无审美，所以不知道效果怎样，只是觉得跟一般的效果还是有区别的。如果有小伙伴觉得有用的话，欢迎使用！主要原理是利用
